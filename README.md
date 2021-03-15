@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @HoGerl
+- 👀 I’m interested in Azure, M365, PowerShell, Service Management, Automation
+- 🌱 I’m currently learning Azure, M365, Compliance, Security
+- 💞️ I’m looking to collaborate on Azure, M365
+- 📫 How to reach me ...
