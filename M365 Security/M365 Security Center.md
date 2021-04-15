@@ -6,7 +6,7 @@ Es werden folgende Rollen benötigt:
 
 Folgende Fragestellung gilt es zu beantworten:
 * **Bedrohte Benutzer untersuchen**
-  * Was sagt die "Untersuchungspriorität" im CASB aus?
+  * Was sagt die "Untersuchungspriorität" im CASB (Cloud App Security Broker) aus?
   * Warum ist die "Untersuchungspriorität" bei einem Benutzer hoch?
 * **Vorfälle**
   * Welche gibt es?
